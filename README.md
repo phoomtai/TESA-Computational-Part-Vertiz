@@ -11,4 +11,7 @@ Top Gun Rally is an annual competition organized by the Thai Embedded Systems As
 
 Each team is assigned to a different part of the competition. During the morning, each team member attends a workshop on their assigned part. In the afternoon, each team works on a project related to their assigned part.
 
-https://shorturl.at/EGMS6
+More competition details: https://shorturl.at/EGMS6
+
+
+## This MATLAB script is a Computational Part in TESA Top Gun Rally, connects to a server, retrieves height data, and integrates it with locally stored datasets. It performs regression analysis on hydrological modeling data, computes a discharge factor, and predicts future heights. The code also includes a filtering function for cleaning input data.
